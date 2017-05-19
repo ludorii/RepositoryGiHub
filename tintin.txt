@@ -1,0 +1,1 @@
+Test fichier à supprimer et à ignorer dans .gitignore
